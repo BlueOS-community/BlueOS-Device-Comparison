@@ -18,4 +18,4 @@ New tracked device types should include a brief description of what the device t
 
 | Device Type | Purpose | Medium(s) |
 |---|---|---|
-[Doppler Velocity Loggers (DVLs)](doppler-velocity-loggers.md) | Velocity / position tracking | Underwater
+[Doppler Velocity Loggers (DVLs)](doppler-velocity-loggers.md) | Velocity / position tracking | water
