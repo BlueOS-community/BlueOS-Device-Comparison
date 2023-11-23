@@ -1,3 +1,14 @@
+# Doppler Velocity Loggers (DVLs)
+
+- [Device type description](https://docs.bluerobotics.com/ardusub-zola/hardware/additional/positioning-sensors/#dvl-positioning-systems)
+- [Technology description](https://bluerobotics.com/learn/a-smooth-operators-guide-to-underwater-sonars-and-acoustic-devices/#doppler-velocity-logger)
+
+## Relevance to BlueOS
+
+Position estimates are important for position holding, path following, and vehicle autonomy. DVLs are a common source of positioning information (via velocity integration) for underwater vehicles, and often don't have direct integration with flight controller autopilot firmwares, so BlueOS is a useful compatibility layer.
+
+# Comparison
+
 |Manufacturer|Model|Cost (USD)|Alternative Source(s)|BlueOS Integration?|Depth rating (m)|Min. altitude (m)|Max.<sup>1</sup> altitude (m)|Max. speed (m/s)|Long Term Accuracy|Diameter (mm)|Height (mm)|Mass (kg)|Volume (L)|Avg. Power (W)|DC input (V)|Freq. (kHz)|Ping rate (Hz)|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Cerulean|[DVL-75 (OEM)](https://ceruleansonar.com/products/dvl-75-oem)|**$2,299-$2,943**|?|[Extension](https://docs.bluerobotics.com/BlueOS-Extensions-Repository/#:~:text=Cerulean%20DVL,-Maintainer)|300|0.3|40+|4.12|?<sup>2</sup>|77|33|**0.25**|0.1 (+elec)|8|12-24|675|5-20
