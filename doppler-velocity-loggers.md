@@ -16,7 +16,7 @@ Position estimates are important for position holding, path following, and vehic
 |Water Linked|[A50<br>standard](https://waterlinked.com/shop/dvl-a50-114#attr=8,53)|$6,900/<br>$9,900|[BR Reef](https://bluerobotics.com/store/the-reef/dvl-a50/)|[Extension](https://docs.bluerobotics.com/BlueOS-Extensions-Repository/#:~:text=Water%20Linked%20DVL,-Maintainer)|300/<br>**600**|**0.05**|50|3.75|1.01%|**66**|**25**|**0.25**|**0.1**|**3**|10-30|1000|4-26
 |Water Linked|[A50<br>performance](https://store.waterlinked.com/product/dvl-a50/)|$7,880/<br>10,880|?|[Extension](https://docs.bluerobotics.com/BlueOS-Extensions-Repository/#:~:text=Water%20Linked%20DVL,-Maintainer)|300/<br>**600**|**0.05**|50|3.75|**0.1%**<sup>3</sup>|**66**|**25**|**0.25**|**0.1**|**3**|10-30|1000|4-26
 |Teledyne|[Wayfinder](http://www.teledynemarine.com/Wayfinder)|$7,500|?|(Companion) [Guide](https://discuss.bluerobotics.com/t/dvl-recommendations/10775/4) |200|0.5|60|**10**|1.15%|100x100sq|70|0.85|0.7|**3**|11.4-36.7|600|<=16
-|Nortek|[Nucleus1000](https://www.nortekgroup.com/products/nucleus1000)|<$10,000|?|[Extension](https://docs.bluerobotics.com/BlueOS-Extensions-Repository/#:~:text=Nortek%20Nucleus,-Maintainer)|300|0.1|50|?|1.01%/ 0.3%<sup>3</sup>|90|42|0.535||<4|10-32|1000|<=8
+|Nortek|[Nucleus1000](https://www.nortekgroup.com/products/nucleus1000)|<$10,000/<br>?|?|[Extension](https://docs.bluerobotics.com/BlueOS-Extensions-Repository/#:~:text=Nortek%20Nucleus,-Maintainer)|300/<br>1000|0.1|50|?|1.01%/ 0.3%<sup>3</sup>|90|42|0.535||<4|10-32|1000|<=8
 
 <sup>1</sup> Achieved maximum altitude in a given scenario depends on factors such as tilt of the sensor head; flatness, hardness, and vegetation cover of the bottom; and salinity.
 
