@@ -19,3 +19,5 @@ New tracked device types should include a brief description of what the device t
 | Device Type | Purpose | Medium(s) |
 |---|---|---|
 [Doppler Velocity Loggers (DVLs)](doppler-velocity-loggers.md) | Velocity / position tracking | water
+
+> **NOTE:** For sonar devices that are not necessarily related to BlueOS, there is a [comparison spreadsheet](https://docs.google.com/spreadsheets/d/1ajVTSS8elzlrvg-TEKv2Yv8kwd5lNhKTTD6FZZpN4eE/edit?gid=693543296#gid=693543296) maintained by Blue Robotics, for a variety of different device types.
